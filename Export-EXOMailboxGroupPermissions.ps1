@@ -1,9 +1,9 @@
 <#
 # ############################################################################
-# Filename: \Export-ExchangeMailboxGroupPermissions.ps1
+# Filename: \Export-EXOMailboxGroupPermissions.ps1
 # Repository: MS365-Migration-Tools
 # Created Date: Friday, February 9th 2024, 4:27:15 PM
-# Last Modified: Friday, February 9th 2024, 4:42:17 PM
+# Last Modified: Friday, February 9th 2024, 4:45:25 PM
 # Original Author: Darnel Kumar
 # Author Github: https://github.com/Darnel-K
 # Github Org: https://github.com/ABYSS-ORG-UK/
